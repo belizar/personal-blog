@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "belizard-blog": {
+      "hosting": {
+        "BenjaminBlog": [
+          "belizard-blog"
+        ]
+      }
+    }
+  }
+}
